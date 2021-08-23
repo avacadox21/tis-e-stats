@@ -23,7 +23,7 @@ This website is made by students of [Tagore International School , Vasant Vihar 
 
 ## About the website 
 
-This website focuses mainly on the impact of Covis-19 on E-commerce as well as how E-commerce helped the community in these difficult times.
+This website focuses mainly on the impact of Covid-19 on E-commerce as well as how E-commerce helped the community in these difficult times.
 
 ## Contributions
 - Homepage by Soham
@@ -47,7 +47,7 @@ This website focuses mainly on the impact of Covis-19 on E-commerce as well as h
 
 ## Future Plans
 
-If this website wins, we are planning to put it up on netlify or hostinger ot 000webhost.
+If this website wins, we are planning to put it up on netlify or hostinger or 000webhost.
 
 ## Conclusion
 In the end I would just like to say we gave in our best and avoided using Javascript because while planning it in the beggining we were planning to use Firebase as well as React js to develop this web application and try making a twitter sort of thing since I was working on one lately. But under the circumstances to avoid using Javascript, we just used css.
