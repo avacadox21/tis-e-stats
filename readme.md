@@ -1,6 +1,7 @@
 # TIS: E-STATS WEBSITE
 ## Intro
-This website is made by students of [Tagore International School , Vasant Vihar New Delhi](https://tagoreint.com/vv/V2.0/)  named:
+This website is made by students of [Tagore International School , Vasant Vihar New Delhi](https://tagoreint.com/vv/V2.0/)  named: TIS-E-STATS
+
 
 **Rohit Chowdhary**:
 
